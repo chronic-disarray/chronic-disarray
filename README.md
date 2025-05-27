@@ -1,5 +1,5 @@
 I make music.
-<link src=https://soundcloud.com/chronic-disarray>
+<link src=https://soundcloud.com/chronic-disarray\>
 I make digital art.
 777
 I make games.
